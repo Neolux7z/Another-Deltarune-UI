@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 88,
+    "supported_formats": {
+      "min_inclusive": 1,
+      "max_inclusive": 118
+    },
+    "min_format": 1,
+    "max_format": 118,
+    "description": {
+      "text": "Another Deltarune UI Resource Pack!",
+      "color": "aqua"
+    }
+  }
+}
