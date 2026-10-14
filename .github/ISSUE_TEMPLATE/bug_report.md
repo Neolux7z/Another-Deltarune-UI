@@ -15,8 +15,8 @@ A clear and concise description of what the bug is.
 **Screenshots**
 Please add screenshots to help explain your problem.
 
-**Version of the Resource Pack:**
-Example: 0.2-ALPHA-(Pre-24w33a).
+**Version of Minecraft and the Resource Pack:**
+Example: 1.21.1, 0.2-ALPHA-(Pre-24w33a).
 
 **Additional context**
 Add any other context about the problem here.
