@@ -4,6 +4,7 @@ about: Suggest an idea for the Resource Pack
 title: ''
 labels: ''
 assignees: ''
+type: Feature
 
 ---
 

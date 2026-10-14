@@ -5,6 +5,7 @@ about: Create a report to help me make the best version of the Resource Pack it 
 title: ''
 labels: ''
 assignees: ''
+type: Bug
 
 ---
 
