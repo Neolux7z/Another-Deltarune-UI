@@ -1,0 +1,271 @@
+{
+  "music.menu": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/menu/before_the_story",
+        "stream": true
+      },
+      {
+        "name": "music/menu/faint_glow",
+        "stream": true
+      }
+    ]
+  },
+  "delta.splat": {
+    "sounds": [
+      {
+        "name": "delta/splat",
+        "stream": true
+      }
+    ]
+  },
+  "delta.explosion": {
+    "sounds": [
+      {
+        "name": "delta/explosion",
+        "stream": true
+      }
+    ]
+  },
+  "delta.ralseiscream": {
+    "sounds": [
+      {
+        "name": "delta/ralscream",
+        "stream": true
+      }
+    ]
+  },
+  "delta.fall": {
+    "sounds": [
+      {
+        "name": "delta/fall",
+        "stream": true
+      }
+    ]
+  },
+  "delta.gaster": {
+    "sounds": [
+      {
+        "name": "delta/gaster",
+        "stream": true
+      }
+    ]
+  },
+  "delta.lancerlaugh": {
+    "sounds": [
+      {
+        "name": "delta/lanclaugh",
+        "stream": true
+      }
+    ]
+  },
+  "delta.jarona": {
+    "sounds": [
+      {
+        "name": "delta/jarona",
+        "stream": true
+      }
+    ]
+  },
+  "delta.itsjarona": {
+    "sounds": [
+      {
+        "name": "delta/it_s_my_jarona",
+        "stream": true
+      }
+    ]
+  },
+  "delta.glue": {
+    "sounds": [
+      {
+        "name": "delta/glue",
+        "stream": true
+      }
+    ]
+  },
+  "delta.ralseising": {
+    "sounds": [
+      {
+        "name": "delta/ralsing",
+        "stream": true
+      }
+    ]
+  },
+  "delta.pink": {
+    "sounds": [
+      {
+        "name": "delta/pink",
+        "stream": true
+      }
+    ]
+  },
+  "delta.susielaugh": {
+    "sounds": [
+      {
+        "name": "delta/suslaugh",
+        "stream": true
+      }
+    ]
+  },
+  "delta.smilecall": {
+    "sounds": [
+      {
+        "name": "delta/smile",
+        "stream": true
+      }
+    ]
+  },
+  "delta.tvtime": {
+    "sounds": [
+      {
+        "name": "delta/tv_time",
+        "stream": true
+      }
+    ]
+  },
+  "delta.long": {
+    "sounds": [
+      {
+        "name": "delta/taking_too_long",
+        "stream": true
+      }
+    ]
+  },
+  "delta.ominous": {
+    "sounds": [
+      {
+        "name": "delta/ominous",
+        "stream": true
+      }
+    ]
+  },
+  "delta.sanfrandisco": {
+    "sounds": [
+      {
+        "name": "delta/sanfrandisco",
+        "stream": true
+      }
+    ]
+  },
+  "delta.mysteriouswind": {
+    "sounds": [
+      {
+        "name": "delta/flowmysterious_wind",
+        "stream": true
+      }
+    ]
+  },
+  "delta.bloomsinyourheart": {
+    "sounds": [
+      {
+        "name": "delta/flowblooms_in_your_heart",
+        "stream": true
+      }
+    ]
+  },
+  "delta.bestfriend": {
+    "sounds": [
+      {
+        "name": "delta/flowyourdadsmybestfriend",
+        "stream": true
+      }
+    ]
+  },
+  "delta.imold": {
+    "sounds": [
+      {
+        "name": "delta/imold",
+        "stream": true
+      }
+    ]
+  },
+  "delta.gersonlaugh": {
+    "sounds": [
+      {
+        "name": "delta/gerlaugh",
+        "stream": true
+      }
+    ]
+  },
+  "delta.pirategaster": {
+    "sounds": [
+      {
+        "name": "delta/pirategaster",
+        "stream": true
+      }
+    ]
+  },
+  "delta.jevilwheelchair": {
+    "sounds": [
+      {
+        "name": "delta/jevilweelchair",
+        "stream": true
+      }
+    ]
+  },
+  "delta.jevilanything": {
+    "sounds": [
+      {
+        "name": "delta/jevilanything",
+        "stream": true
+      }
+    ]
+  },
+  "delta.chaos": {
+    "sounds": [
+      {
+        "name": "delta/chaos",
+        "stream": true
+      }
+    ]
+  },
+  "delta.jaorange": {
+    "sounds": [
+      {
+        "name": "delta/jaorange",
+        "stream": true
+      }
+    ]
+  },
+  "delta.krisconnected": {
+    "sounds": [
+      {
+        "name": "delta/krisconnected",
+        "stream": true
+      }
+    ]
+  },
+  "delta.susiedeltarune": {
+    "sounds": [
+      {
+        "name": "delta/susiedeltarune",
+        "stream": true
+      }
+    ]
+  },
+  "delta.jakidding": {
+    "sounds": [
+      {
+        "name": "delta/jakidding",
+        "stream": true
+      }
+    ]
+  },
+  "delta.noellescared": {
+    "sounds": [
+      {
+        "name": "delta/noellescared",
+        "stream": true
+      }
+    ]
+  },
+  "delta.truck": {
+    "sounds": [
+      {
+        "name": "delta/truck",
+        "stream": true
+      }
+    ]
+  }
+}
